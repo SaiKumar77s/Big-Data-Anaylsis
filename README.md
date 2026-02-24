@@ -12,7 +12,7 @@ The goal is to efficiently process large volumes of structured data and extract 
 
 ## Dataset used
 
-- <a href="https://github.com/SaiKumar77s/data-analysis-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://www.kaggle.com/datasets/ahmadsamsulmuarif/online-retailcsv">Dataset</a>
 
 
 
